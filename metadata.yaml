@@ -1,0 +1,38 @@
+_repo: Galgenlieder-nebst-dem-Gingganz-_33541
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Walser, Karl
+    alias: Walser, Carl
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '36463'
+    url: http://www.gutenberg.org/2009/agents/36463
+covers:
+- cover_type: archival
+  image_path: 33541-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morgenstern, Christian
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '3106'
+    url: http://www.gutenberg.org/2009/agents/3106
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Christian_Morgenstern
+    - http://de.wikipedia.org/wiki/Christian_Morgenstern
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2010-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33541'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+title: Galgenlieder nebst dem 'Gingganz'
+url: http://www.gutenberg.org/ebooks/33541
