@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Christian_Morgenstern
     - http://de.wikipedia.org/wiki/Christian_Morgenstern
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33541#Galgenlieder-nebst-dem-Gingganz-
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2010-08-26'
 gutenberg_type: Text
